@@ -1,0 +1,13 @@
+Hello there..
+This is Maniac v0.1
+Do cmds for the list of commands, you can submit all your commands or improvements by making a pull request!
+
+
+How do you add your custom commands:
+Navigate to Source
+Make a text file
+put batch code in it (make sure that at the end of the file it says Maniac)
+save as .bat or rename it to <name>.bat
+
+
+
